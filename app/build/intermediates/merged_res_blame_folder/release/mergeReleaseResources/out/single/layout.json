@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "com.skinective.app-mergeReleaseResources-61:/layout/activity_news_detail.xml",
+        "source": "com.skinective.app-main-63:/layout/activity_news_detail.xml"
+    },
+    {
+        "merged": "com.skinective.app-mergeReleaseResources-61:/layout/result_item.xml",
+        "source": "com.skinective.app-main-63:/layout/result_item.xml"
+    },
+    {
+        "merged": "com.skinective.app-mergeReleaseResources-61:/layout/activity_news.xml",
+        "source": "com.skinective.app-main-63:/layout/activity_news.xml"
+    },
+    {
+        "merged": "com.skinective.app-mergeReleaseResources-61:/layout/activity_sign_up.xml",
+        "source": "com.skinective.app-main-63:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "com.skinective.app-mergeReleaseResources-61:/layout/activity_result.xml",
+        "source": "com.skinective.app-main-63:/layout/activity_result.xml"
+    },
+    {
+        "merged": "com.skinective.app-mergeReleaseResources-61:/layout/news_item_list.xml",
+        "source": "com.skinective.app-main-63:/layout/news_item_list.xml"
+    },
+    {
+        "merged": "com.skinective.app-mergeReleaseResources-61:/layout/activity_welcomescreen2.xml",
+        "source": "com.skinective.app-main-63:/layout/activity_welcomescreen2.xml"
+    },
+    {
+        "merged": "com.skinective.app-mergeReleaseResources-61:/layout/activity_sign_in.xml",
+        "source": "com.skinective.app-main-63:/layout/activity_sign_in.xml"
+    },
+    {
+        "merged": "com.skinective.app-mergeReleaseResources-61:/layout/activity_welcomescreen1.xml",
+        "source": "com.skinective.app-main-63:/layout/activity_welcomescreen1.xml"
+    },
+    {
+        "merged": "com.skinective.app-mergeReleaseResources-61:/layout/activity_profile.xml",
+        "source": "com.skinective.app-main-63:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.skinective.app-mergeReleaseResources-61:/layout/activity_welcome.xml",
+        "source": "com.skinective.app-main-63:/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "com.skinective.app-mergeReleaseResources-61:/layout/activity_about.xml",
+        "source": "com.skinective.app-main-63:/layout/activity_about.xml"
+    },
+    {
+        "merged": "com.skinective.app-mergeReleaseResources-61:/layout/activity_detail_profile.xml",
+        "source": "com.skinective.app-main-63:/layout/activity_detail_profile.xml"
+    },
+    {
+        "merged": "com.skinective.app-mergeReleaseResources-61:/layout/fragment_profile.xml",
+        "source": "com.skinective.app-main-63:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.skinective.app-mergeReleaseResources-61:/layout/activity_detect.xml",
+        "source": "com.skinective.app-main-63:/layout/activity_detect.xml"
+    },
+    {
+        "merged": "com.skinective.app-mergeReleaseResources-61:/layout/activity_main.xml",
+        "source": "com.skinective.app-main-63:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.skinective.app-mergeReleaseResources-61:/layout/activity_splashscreen.xml",
+        "source": "com.skinective.app-main-63:/layout/activity_splashscreen.xml"
+    },
+    {
+        "merged": "com.skinective.app-mergeReleaseResources-61:/layout/activity_history.xml",
+        "source": "com.skinective.app-main-63:/layout/activity_history.xml"
+    },
+    {
+        "merged": "com.skinective.app-mergeReleaseResources-61:/layout/activity_welcomescreen3.xml",
+        "source": "com.skinective.app-main-63:/layout/activity_welcomescreen3.xml"
+    },
+    {
+        "merged": "com.skinective.app-mergeReleaseResources-61:/layout/activity_edit_profile.xml",
+        "source": "com.skinective.app-main-63:/layout/activity_edit_profile.xml"
+    },
+    {
+        "merged": "com.skinective.app-mergeReleaseResources-61:/layout/fragment_hospital.xml",
+        "source": "com.skinective.app-main-63:/layout/fragment_hospital.xml"
+    },
+    {
+        "merged": "com.skinective.app-mergeReleaseResources-61:/layout/hospital_item.xml",
+        "source": "com.skinective.app-main-63:/layout/hospital_item.xml"
+    },
+    {
+        "merged": "com.skinective.app-mergeReleaseResources-61:/layout/fragment_home.xml",
+        "source": "com.skinective.app-main-63:/layout/fragment_home.xml"
+    }
+]

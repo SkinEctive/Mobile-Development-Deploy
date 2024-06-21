@@ -1,0 +1,482 @@
+[
+    {
+        "merged": "com.skinective.app-debug-62:/font_nunitosans_10ptsemibold.ttf.flat",
+        "source": "com.skinective.app-main-64:/font/nunitosans_10ptsemibold.ttf"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/drawable_ic_arrow_back.png.flat",
+        "source": "com.skinective.app-main-64:/drawable/ic_arrow_back.png"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.skinective.app-main-64:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/font_poppins_extrabold.ttf.flat",
+        "source": "com.skinective.app-main-64:/font/poppins_extrabold.ttf"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/drawable_ic_setting.xml.flat",
+        "source": "com.skinective.app-main-64:/drawable/ic_setting.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/font_nunitosans_10ptbolditalic.ttf.flat",
+        "source": "com.skinective.app-main-64:/font/nunitosans_10ptbolditalic.ttf"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/layout_activity_about.xml.flat",
+        "source": "com.skinective.app-main-64:/layout/activity_about.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/drawable_team_bima.png.flat",
+        "source": "com.skinective.app-main-64:/drawable/team_bima.png"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/drawable_item_circle_white.xml.flat",
+        "source": "com.skinective.app-main-64:/drawable/item_circle_white.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.skinective.app-main-64:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/layout_fragment_profile.xml.flat",
+        "source": "com.skinective.app-main-64:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/layout_activity_welcomescreen2.xml.flat",
+        "source": "com.skinective.app-main-64:/layout/activity_welcomescreen2.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/navigation_nav_graph.xml.flat",
+        "source": "com.skinective.app-main-64:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.skinective.app-main-64:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/xml_data_extraction_rules.xml.flat",
+        "source": "com.skinective.app-main-64:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/drawable_ic_sign_out.xml.flat",
+        "source": "com.skinective.app-main-64:/drawable/ic_sign_out.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/font_poppins_medium.ttf.flat",
+        "source": "com.skinective.app-main-64:/font/poppins_medium.ttf"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/font_nunitosans_10ptblack.ttf.flat",
+        "source": "com.skinective.app-main-64:/font/nunitosans_10ptblack.ttf"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/layout_activity_welcome.xml.flat",
+        "source": "com.skinective.app-main-64:/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/layout_fragment_home.xml.flat",
+        "source": "com.skinective.app-main-64:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/drawable_rectangle_bg_splash.xml.flat",
+        "source": "com.skinective.app-main-64:/drawable/rectangle_bg_splash.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/layout_activity_welcomescreen3.xml.flat",
+        "source": "com.skinective.app-main-64:/layout/activity_welcomescreen3.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/drawable_ic_share_small.png.flat",
+        "source": "com.skinective.app-main-64:/drawable/ic_share_small.png"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.skinective.app-main-64:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/drawable_baseline_info_24.xml.flat",
+        "source": "com.skinective.app-main-64:/drawable/baseline_info_24.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/drawable_health_articles.png.flat",
+        "source": "com.skinective.app-main-64:/drawable/health_articles.png"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/drawable_ic_about_us.xml.flat",
+        "source": "com.skinective.app-main-64:/drawable/ic_about_us.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/layout_hospital_item.xml.flat",
+        "source": "com.skinective.app-main-64:/layout/hospital_item.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/drawable_baseline_arrow_back_ios_24.xml.flat",
+        "source": "com.skinective.app-main-64:/drawable/baseline_arrow_back_ios_24.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.skinective.app-main-64:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/font_poppins_extralight.ttf.flat",
+        "source": "com.skinective.app-main-64:/font/poppins_extralight.ttf"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/layout_activity_sign_up.xml.flat",
+        "source": "com.skinective.app-main-64:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/drawable_img_1_scr2.png.flat",
+        "source": "com.skinective.app-main-64:/drawable/img_1_scr2.png"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/drawable_team_ammar.png.flat",
+        "source": "com.skinective.app-main-64:/drawable/team_ammar.png"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/drawable_rectangle_bg_welcomescreen3.xml.flat",
+        "source": "com.skinective.app-main-64:/drawable/rectangle_bg_welcomescreen3.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/drawable_ic_home_white_24dp.xml.flat",
+        "source": "com.skinective.app-main-64:/drawable/ic_home_white_24dp.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/font_interbold.ttf.flat",
+        "source": "com.skinective.app-main-64:/font/interbold.ttf"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/drawable_ic_hospital.png.flat",
+        "source": "com.skinective.app-main-64:/drawable/ic_hospital.png"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/font_poppins_regular.ttf.flat",
+        "source": "com.skinective.app-main-64:/font/poppins_regular.ttf"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/drawable_ic_edit.xml.flat",
+        "source": "com.skinective.app-main-64:/drawable/ic_edit.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/drawable_wave_2.xml.flat",
+        "source": "com.skinective.app-main-64:/drawable/wave_2.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/layout_activity_splashscreen.xml.flat",
+        "source": "com.skinective.app-main-64:/layout/activity_splashscreen.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/font_interregular.ttf.flat",
+        "source": "com.skinective.app-main-64:/font/interregular.ttf"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/drawable_img_3_scr2.png.flat",
+        "source": "com.skinective.app-main-64:/drawable/img_3_scr2.png"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/drawable_purple_background.xml.flat",
+        "source": "com.skinective.app-main-64:/drawable/purple_background.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/drawable_ic_gallery.png.flat",
+        "source": "com.skinective.app-main-64:/drawable/ic_gallery.png"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/layout_activity_detail_profile.xml.flat",
+        "source": "com.skinective.app-main-64:/layout/activity_detail_profile.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.skinective.app-main-64:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.skinective.app-main-64:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/drawable_img_sample_news.png.flat",
+        "source": "com.skinective.app-main-64:/drawable/img_sample_news.png"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/drawable_ic_more_vert_white_24dp.xml.flat",
+        "source": "com.skinective.app-main-64:/drawable/ic_more_vert_white_24dp.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/drawable_team_hilal.png.flat",
+        "source": "com.skinective.app-main-64:/drawable/team_hilal.png"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/drawable_ic_scan_smile.png.flat",
+        "source": "com.skinective.app-main-64:/drawable/ic_scan_smile.png"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/drawable_ic_home.xml.flat",
+        "source": "com.skinective.app-main-64:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/layout_activity_result.xml.flat",
+        "source": "com.skinective.app-main-64:/layout/activity_result.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/drawable_pic_auth.jpeg.flat",
+        "source": "com.skinective.app-main-64:/drawable/pic_auth.jpeg"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/drawable_team_anju.png.flat",
+        "source": "com.skinective.app-main-64:/drawable/team_anju.png"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/layout_activity_sign_in.xml.flat",
+        "source": "com.skinective.app-main-64:/layout/activity_sign_in.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/layout_activity_welcomescreen1.xml.flat",
+        "source": "com.skinective.app-main-64:/layout/activity_welcomescreen1.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/xml_backup_rules.xml.flat",
+        "source": "com.skinective.app-main-64:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.skinective.app-main-64:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/drawable_ic_scan.png.flat",
+        "source": "com.skinective.app-main-64:/drawable/ic_scan.png"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/font_nunitosans_10ptlightitalic.ttf.flat",
+        "source": "com.skinective.app-main-64:/font/nunitosans_10ptlightitalic.ttf"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/drawable_img_sample_profile.png.flat",
+        "source": "com.skinective.app-main-64:/drawable/img_sample_profile.png"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/drawable_bg_history.xml.flat",
+        "source": "com.skinective.app-main-64:/drawable/bg_history.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/font_nunitosans_10ptextrabold.ttf.flat",
+        "source": "com.skinective.app-main-64:/font/nunitosans_10ptextrabold.ttf"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/drawable_buttonwelcomescreen.xml.flat",
+        "source": "com.skinective.app-main-64:/drawable/buttonwelcomescreen.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/drawable_logo_first.png.flat",
+        "source": "com.skinective.app-main-64:/drawable/logo_first.png"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/font_poppins_bold.ttf.flat",
+        "source": "com.skinective.app-main-64:/font/poppins_bold.ttf"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/drawable_img_2_scr2.png.flat",
+        "source": "com.skinective.app-main-64:/drawable/img_2_scr2.png"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.skinective.app-main-64:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/drawable_team_jey.png.flat",
+        "source": "com.skinective.app-main-64:/drawable/team_jey.png"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/drawable_ic_search.xml.flat",
+        "source": "com.skinective.app-main-64:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/layout_activity_edit_profile.xml.flat",
+        "source": "com.skinective.app-main-64:/layout/activity_edit_profile.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/drawable_illustration.xml.flat",
+        "source": "com.skinective.app-main-64:/drawable/illustration.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.skinective.app-main-64:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/layout_activity_history.xml.flat",
+        "source": "com.skinective.app-main-64:/layout/activity_history.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/layout_activity_news_detail.xml.flat",
+        "source": "com.skinective.app-main-64:/layout/activity_news_detail.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/drawable_team_desi.png.flat",
+        "source": "com.skinective.app-main-64:/drawable/team_desi.png"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/drawable_rectangle_bg_welcome.xml.flat",
+        "source": "com.skinective.app-main-64:/drawable/rectangle_bg_welcome.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/layout_result_item.xml.flat",
+        "source": "com.skinective.app-main-64:/layout/result_item.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/font_poppins_light.ttf.flat",
+        "source": "com.skinective.app-main-64:/font/poppins_light.ttf"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/drawable_rectangle_welcomescreen.xml.flat",
+        "source": "com.skinective.app-main-64:/drawable/rectangle_welcomescreen.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/font_nunitosans_10ptlight.ttf.flat",
+        "source": "com.skinective.app-main-64:/font/nunitosans_10ptlight.ttf"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.skinective.app-main-64:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/drawable_item_circle_purple.xml.flat",
+        "source": "com.skinective.app-main-64:/drawable/item_circle_purple.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/font_nunitosans_10ptregular.ttf.flat",
+        "source": "com.skinective.app-main-64:/font/nunitosans_10ptregular.ttf"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/layout_activity_main.xml.flat",
+        "source": "com.skinective.app-main-64:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/font_nunitosans_10ptblackitalic.ttf.flat",
+        "source": "com.skinective.app-main-64:/font/nunitosans_10ptblackitalic.ttf"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/drawable_ic_profile.xml.flat",
+        "source": "com.skinective.app-main-64:/drawable/ic_profile.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/drawable_ic_camera_alt.xml.flat",
+        "source": "com.skinective.app-main-64:/drawable/ic_camera_alt.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.skinective.app-main-64:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.skinective.app-main-64:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.skinective.app-main-64:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.skinective.app-main-64:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/menu_bottom_navigation_menu.xml.flat",
+        "source": "com.skinective.app-main-64:/menu/bottom_navigation_menu.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/drawable_logo.png.flat",
+        "source": "com.skinective.app-main-64:/drawable/logo.png"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/drawable_white_background.xml.flat",
+        "source": "com.skinective.app-main-64:/drawable/white_background.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/font_nunitosans_10ptbold.ttf.flat",
+        "source": "com.skinective.app-main-64:/font/nunitosans_10ptbold.ttf"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.skinective.app-main-64:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/layout_fragment_hospital.xml.flat",
+        "source": "com.skinective.app-main-64:/layout/fragment_hospital.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/drawable_search_background.xml.flat",
+        "source": "com.skinective.app-main-64:/drawable/search_background.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/drawable_ic_share_img.png.flat",
+        "source": "com.skinective.app-main-64:/drawable/ic_share_img.png"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/drawable_inner_shadow.xml.flat",
+        "source": "com.skinective.app-main-64:/drawable/inner_shadow.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/font_poppins_mediumitalic.ttf.flat",
+        "source": "com.skinective.app-main-64:/font/poppins_mediumitalic.ttf"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/drawable_vectorscr3.xml.flat",
+        "source": "com.skinective.app-main-64:/drawable/vectorscr3.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/drawable_rounded_background_purple.xml.flat",
+        "source": "com.skinective.app-main-64:/drawable/rounded_background_purple.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/drawable_ellipse_shape.xml.flat",
+        "source": "com.skinective.app-main-64:/drawable/ellipse_shape.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/font_poppins_italic.ttf.flat",
+        "source": "com.skinective.app-main-64:/font/poppins_italic.ttf"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/layout_activity_detect.xml.flat",
+        "source": "com.skinective.app-main-64:/layout/activity_detect.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/font_poppins_semibold.ttf.flat",
+        "source": "com.skinective.app-main-64:/font/poppins_semibold.ttf"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.skinective.app-main-64:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/layout_news_item_list.xml.flat",
+        "source": "com.skinective.app-main-64:/layout/news_item_list.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.skinective.app-main-64:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/drawable_gradient_background.xml.flat",
+        "source": "com.skinective.app-main-64:/drawable/gradient_background.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.skinective.app-main-64:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/drawable_team_edo.png.flat",
+        "source": "com.skinective.app-main-64:/drawable/team_edo.png"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/layout_activity_news.xml.flat",
+        "source": "com.skinective.app-main-64:/layout/activity_news.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/layout_activity_profile.xml.flat",
+        "source": "com.skinective.app-main-64:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.skinective.app-debug-62:/drawable_wave_1.xml.flat",
+        "source": "com.skinective.app-main-64:/drawable/wave_1.xml"
+    }
+]

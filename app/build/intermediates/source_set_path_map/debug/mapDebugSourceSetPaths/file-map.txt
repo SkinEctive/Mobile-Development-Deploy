@@ -1,0 +1,65 @@
+com.skinective.app-cardview-1.0.0-0 C:\Users\USER\.gradle\caches\transforms-3\10b801082c133787722c4aa2e78a4fbe\transformed\cardview-1.0.0\res
+com.skinective.app-lifecycle-viewmodel-release-1 C:\Users\USER\.gradle\caches\transforms-3\1b0c3c2fbc877276b21a989965db3570\transformed\lifecycle-viewmodel-release\res
+com.skinective.app-play-services-basement-18.4.0-2 C:\Users\USER\.gradle\caches\transforms-3\1c0f2781c0c8125b39e6e8fa9b469be7\transformed\play-services-basement-18.4.0\res
+com.skinective.app-recyclerview-1.3.1-3 C:\Users\USER\.gradle\caches\transforms-3\1da063e6f651a14637be2d47ec8387f0\transformed\recyclerview-1.3.1\res
+com.skinective.app-lifecycle-livedata-core-2.8.1-4 C:\Users\USER\.gradle\caches\transforms-3\1e7c65d55ed7faacd70cbb750fbef4f4\transformed\lifecycle-livedata-core-2.8.1\res
+com.skinective.app-customview-poolingcontainer-1.0.0-5 C:\Users\USER\.gradle\caches\transforms-3\27de3ccd7b1c0d76f9878264cc7bc030\transformed\customview-poolingcontainer-1.0.0\res
+com.skinective.app-core-splashscreen-1.0.1-6 C:\Users\USER\.gradle\caches\transforms-3\28aa29d8bac4bd95f44b3a3719ab94ab\transformed\core-splashscreen-1.0.1\res
+com.skinective.app-slidingpanelayout-1.2.0-7 C:\Users\USER\.gradle\caches\transforms-3\2bdb3fda246114862a7c8e3df513b69f\transformed\slidingpanelayout-1.2.0\res
+com.skinective.app-lifecycle-viewmodel-ktx-2.8.1-8 C:\Users\USER\.gradle\caches\transforms-3\2d45ad5dd0988d6a8604edca66ebb52c\transformed\lifecycle-viewmodel-ktx-2.8.1\res
+com.skinective.app-material-1.12.0-9 C:\Users\USER\.gradle\caches\transforms-3\2dc71fb88aa11f359c2f979ad700de39\transformed\material-1.12.0\res
+com.skinective.app-lifecycle-livedata-2.8.1-10 C:\Users\USER\.gradle\caches\transforms-3\335a4f52812e7729a1a4266dde31e805\transformed\lifecycle-livedata-2.8.1\res
+com.skinective.app-emoji2-views-helper-1.3.0-11 C:\Users\USER\.gradle\caches\transforms-3\35683a6bacf0d7493a6d27b5102ca200\transformed\emoji2-views-helper-1.3.0\res
+com.skinective.app-places-3.5.0-12 C:\Users\USER\.gradle\caches\transforms-3\38499ff123cadec8539c7f6053bfa82a\transformed\places-3.5.0\res
+com.skinective.app-profileinstaller-1.3.1-13 C:\Users\USER\.gradle\caches\transforms-3\3f6c8264710b432fe7c5ce66698c1e49\transformed\profileinstaller-1.3.1\res
+com.skinective.app-navigation-fragment-ktx-2.7.7-14 C:\Users\USER\.gradle\caches\transforms-3\448b710393398ffd4a5eda24069404e6\transformed\navigation-fragment-ktx-2.7.7\res
+com.skinective.app-savedstate-ktx-1.2.1-15 C:\Users\USER\.gradle\caches\transforms-3\44cf9645f0acb36343e302353ba38e95\transformed\savedstate-ktx-1.2.1\res
+com.skinective.app-camera-video-1.3.3-16 C:\Users\USER\.gradle\caches\transforms-3\4915cce07195f68912e46b1430c6e645\transformed\camera-video-1.3.3\res
+com.skinective.app-camera-extensions-1.3.3-17 C:\Users\USER\.gradle\caches\transforms-3\4be877fa265e7cfd6e24b6b3c71ab156\transformed\camera-extensions-1.3.3\res
+com.skinective.app-camera-core-1.3.3-18 C:\Users\USER\.gradle\caches\transforms-3\51d46945258493e5c166152779488025\transformed\camera-core-1.3.3\res
+com.skinective.app-activity-1.9.0-19 C:\Users\USER\.gradle\caches\transforms-3\5e123ea571c800b6c454820ecda52dc8\transformed\activity-1.9.0\res
+com.skinective.app-navigation-runtime-ktx-2.7.7-20 C:\Users\USER\.gradle\caches\transforms-3\624c0b601aa4e96c3cd38368223c5b33\transformed\navigation-runtime-ktx-2.7.7\res
+com.skinective.app-fragment-ktx-1.6.2-21 C:\Users\USER\.gradle\caches\transforms-3\6313ec8c9a74a3704d288824095dfc7d\transformed\fragment-ktx-1.6.2\res
+com.skinective.app-navigation-common-2.7.7-22 C:\Users\USER\.gradle\caches\transforms-3\64f163d9ea7857b72ffc25bd404e3cd0\transformed\navigation-common-2.7.7\res
+com.skinective.app-navigation-ui-ktx-2.7.7-23 C:\Users\USER\.gradle\caches\transforms-3\67cb080eb1303710be84fe4d25ac1fe5\transformed\navigation-ui-ktx-2.7.7\res
+com.skinective.app-appcompat-1.7.0-24 C:\Users\USER\.gradle\caches\transforms-3\6b1487d6a5e63c837e93d35af25f3019\transformed\appcompat-1.7.0\res
+com.skinective.app-camera-view-1.3.3-25 C:\Users\USER\.gradle\caches\transforms-3\709b619eda70f210df2ec409ef17e321\transformed\camera-view-1.3.3\res
+com.skinective.app-fragment-1.6.2-26 C:\Users\USER\.gradle\caches\transforms-3\73614a59edc5ac7e9a2bf2e2b052e9a8\transformed\fragment-1.6.2\res
+com.skinective.app-lifecycle-livedata-ktx-2.8.1-27 C:\Users\USER\.gradle\caches\transforms-3\73a5ef9b683c7e19ea79a7d6c6b2b2a8\transformed\lifecycle-livedata-ktx-2.8.1\res
+com.skinective.app-transition-1.5.0-28 C:\Users\USER\.gradle\caches\transforms-3\79554a20b54a73a3613463b78fa722dd\transformed\transition-1.5.0\res
+com.skinective.app-navigation-runtime-2.7.7-29 C:\Users\USER\.gradle\caches\transforms-3\7f7fb2c93e199a79514ea3363858cfcc\transformed\navigation-runtime-2.7.7\res
+com.skinective.app-constraintlayout-2.1.4-30 C:\Users\USER\.gradle\caches\transforms-3\80a5023d9ffcc754a132774123339cb9\transformed\constraintlayout-2.1.4\res
+com.skinective.app-appcompat-resources-1.7.0-31 C:\Users\USER\.gradle\caches\transforms-3\8b39a82916723b69d6516518beaa6673\transformed\appcompat-resources-1.7.0\res
+com.skinective.app-coordinatorlayout-1.1.0-32 C:\Users\USER\.gradle\caches\transforms-3\9550ad5dbbcb9212e33d5da9758e9a56\transformed\coordinatorlayout-1.1.0\res
+com.skinective.app-emoji2-1.3.0-33 C:\Users\USER\.gradle\caches\transforms-3\961ae13cc13a11a94d7cc52ba87421b1\transformed\emoji2-1.3.0\res
+com.skinective.app-drawerlayout-1.1.1-34 C:\Users\USER\.gradle\caches\transforms-3\9855d044d041bed0535e24e0bb4ed29e\transformed\drawerlayout-1.1.1\res
+com.skinective.app-core-ktx-1.13.1-35 C:\Users\USER\.gradle\caches\transforms-3\9bc105e614ed133d24f7265e82396ef0\transformed\core-ktx-1.13.1\res
+com.skinective.app-navigation-fragment-2.7.7-36 C:\Users\USER\.gradle\caches\transforms-3\a1b43affa5f5c5eb2f848b8ca408074e\transformed\navigation-fragment-2.7.7\res
+com.skinective.app-lifecycle-process-2.8.1-37 C:\Users\USER\.gradle\caches\transforms-3\a22f22f2d9b515c827d9ff2d5d53636c\transformed\lifecycle-process-2.8.1\res
+com.skinective.app-viewpager2-1.1.0-38 C:\Users\USER\.gradle\caches\transforms-3\a8f7a8e629efdcf18196828de1c8cfd9\transformed\viewpager2-1.1.0\res
+com.skinective.app-play-services-maps-18.2.0-39 C:\Users\USER\.gradle\caches\transforms-3\ac8c79b15863e7724f7b48e00404effb\transformed\play-services-maps-18.2.0\res
+com.skinective.app-window-1.0.0-40 C:\Users\USER\.gradle\caches\transforms-3\ad71c831e5415535e258bbeb75f1ff69\transformed\window-1.0.0\res
+com.skinective.app-annotation-experimental-1.4.0-41 C:\Users\USER\.gradle\caches\transforms-3\b395383ea33684761c1ebce5ebd62dfe\transformed\annotation-experimental-1.4.0\res
+com.skinective.app-lifecycle-viewmodel-savedstate-2.8.1-42 C:\Users\USER\.gradle\caches\transforms-3\bc01b9b045f57288d57f51471d577bfe\transformed\lifecycle-viewmodel-savedstate-2.8.1\res
+com.skinective.app-lifecycle-runtime-release-43 C:\Users\USER\.gradle\caches\transforms-3\c1142440d53fda39dd2878aaec3ff913\transformed\lifecycle-runtime-release\res
+com.skinective.app-glide-4.16.0-44 C:\Users\USER\.gradle\caches\transforms-3\c659e00e096200654e7c0a3d28a89215\transformed\glide-4.16.0\res
+com.skinective.app-camera-lifecycle-1.3.3-45 C:\Users\USER\.gradle\caches\transforms-3\cc737ddd5eeacecf6aa534b7117c2d76\transformed\camera-lifecycle-1.3.3\res
+com.skinective.app-savedstate-1.2.1-46 C:\Users\USER\.gradle\caches\transforms-3\d0240ef9f0825799696a2aee815b3102\transformed\savedstate-1.2.1\res
+com.skinective.app-play-services-base-18.5.0-47 C:\Users\USER\.gradle\caches\transforms-3\d0b200b6846c842392417936d2a5754d\transformed\play-services-base-18.5.0\res
+com.skinective.app-camera-camera2-1.3.3-48 C:\Users\USER\.gradle\caches\transforms-3\d9651a6d326dc27630aaa8d6318b5e24\transformed\camera-camera2-1.3.3\res
+com.skinective.app-circleimageview-3.1.0-49 C:\Users\USER\.gradle\caches\transforms-3\db0cb5a8794ecdd41f9740c46203b03a\transformed\circleimageview-3.1.0\res
+com.skinective.app-startup-runtime-1.1.1-50 C:\Users\USER\.gradle\caches\transforms-3\ead12442868d940b9b52a13657c25bc2\transformed\startup-runtime-1.1.1\res
+com.skinective.app-navigation-ui-2.7.7-51 C:\Users\USER\.gradle\caches\transforms-3\ed779c35a9a46630ce81df506884564c\transformed\navigation-ui-2.7.7\res
+com.skinective.app-lifecycle-runtime-ktx-release-52 C:\Users\USER\.gradle\caches\transforms-3\eff5cf79da6bffd527f4041e907b4771\transformed\lifecycle-runtime-ktx-release\res
+com.skinective.app-activity-ktx-1.9.0-53 C:\Users\USER\.gradle\caches\transforms-3\f2585f9d26c776f31caeccdc469eded8\transformed\activity-ktx-1.9.0\res
+com.skinective.app-lifecycle-livedata-core-ktx-2.8.1-54 C:\Users\USER\.gradle\caches\transforms-3\f6ae072dcb8d553d9aae2b2400d65095\transformed\lifecycle-livedata-core-ktx-2.8.1\res
+com.skinective.app-navigation-common-ktx-2.7.7-55 C:\Users\USER\.gradle\caches\transforms-3\f8e2850212d03afdecc1639c05b6d66e\transformed\navigation-common-ktx-2.7.7\res
+com.skinective.app-core-runtime-2.2.0-56 C:\Users\USER\.gradle\caches\transforms-3\fa0f325214f1bab5134c804702b22466\transformed\core-runtime-2.2.0\res
+com.skinective.app-core-1.13.1-57 C:\Users\USER\.gradle\caches\transforms-3\fedf02dcfd07ac871fce0545d5abe436\transformed\core-1.13.1\res
+com.skinective.app-pngs-58 D:\ITERA\MBKM\capstone\SkinEctive 4\app\build\generated\res\pngs\debug
+com.skinective.app-resValues-59 D:\ITERA\MBKM\capstone\SkinEctive 4\app\build\generated\res\resValues\debug
+com.skinective.app-packageDebugResources-60 D:\ITERA\MBKM\capstone\SkinEctive 4\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.skinective.app-packageDebugResources-61 D:\ITERA\MBKM\capstone\SkinEctive 4\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.skinective.app-debug-62 D:\ITERA\MBKM\capstone\SkinEctive 4\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.skinective.app-debug-63 D:\ITERA\MBKM\capstone\SkinEctive 4\app\src\debug\res
+com.skinective.app-main-64 D:\ITERA\MBKM\capstone\SkinEctive 4\app\src\main\res
